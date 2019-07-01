@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#DFEDB8</color>
+    <color name="colorPrimaryDark">#ABE188</color>
+    <color name="colorAccent">#F78E69</color>
+
+    <color name="mygreen">#DDFFDD</color>
+    <color name="mylightgreen">#EAFFEA</color>
+    <color name="mydarkgreen">#55C155</color>
+    <!--<color name="myred">#FF5454</color>-->
+    <color name="myred">#FF5454</color>
+    <color name="mywhite">#FFFFFF</color>
+    <color name="myyellow">#DFEDB8</color>
+    <color name="myblack">#212121</color>
+    <color name ="myoffwhite">#FBF6F9</color>
+
+    <color name="black">#212121</color>
+    <color name="grey">#a1887f</color>
+    <color name="green">#55C155</color>
+    <color name="red">#FF5454</color>
+
+</resources>

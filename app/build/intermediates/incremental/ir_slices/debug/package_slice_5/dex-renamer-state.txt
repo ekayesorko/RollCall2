@@ -1,0 +1,4 @@
+#Sat Jun 29 23:37:02 BDT 2019
+base.0=/home/orko/AndroidStudioProjects/RollCall2/app/build/intermediates/transforms/dexMerger/debug/5
+path.0=classes.dex
+renamed.0=classes.dex

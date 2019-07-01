@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/myoffwhite"
+    android:orientation="vertical"
+    android:gravity="center"
+    tools:context=".RollCallActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Computer Algorithm\nCSE 15 'A'"
+        android:textSize="20dp"
+        android:gravity="center"
+        android:background="@drawable/green_solid"
+        android:textColor="@color/mywhite"
+        android:paddingBottom="0dp"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="120dp"
+        android:text="1503035"
+        android:textSize="80dp"
+        android:textColor="#656565"
+        android:gravity="center"
+        />
+
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_width = "match_parent"
+            android:padding="10dp"
+            android:text="Attendance 65.6%"
+            android:textSize="30dp"
+            android:textColor="@color/mywhite"
+            android:background = "@color/green"
+            android:gravity="center"
+
+            />
+        <LinearLayout
+            android:layout_height="wrap_content"
+            android:layout_width = "match_parent"
+            android:gravity="center"
+            android:background = "@color/myoffwhite"
+
+
+            >
+            <TextView
+                android:layout_height="40dp"
+                android:layout_width="40dp"
+                android:text="P"
+                android:textSize="16dp"
+                android:textColor="@color/mywhite"
+                android:background = "@drawable/present_flag"
+                android:gravity="center"
+                android:padding="10dp"
+
+                />
+            <TextView
+                android:layout_height="40dp"
+                android:layout_width="40dp"
+                android:text="P"
+                android:textSize="16dp"
+                android:textColor="@color/mywhite"
+                android:background = "@drawable/present_flag"
+                android:gravity="center"
+                android:padding="10dp"
+
+                />
+            <TextView
+                android:layout_height="40dp"
+                android:layout_width="40dp"
+                android:text="A"
+                android:textSize="16sp"
+                android:textColor="@color/mywhite"
+                android:background = "@drawable/absent_flag"
+                android:padding="10dp"
+                android:gravity="center"
+                />
+            <TextView
+                android:layout_height="40dp"
+                android:layout_width="40dp"
+                android:text="P"
+                android:textSize="16dp"
+                android:textColor="@color/mywhite"
+                android:background = "@drawable/present_flag"
+                android:gravity="center"
+                android:padding="10dp"
+                />
+            <TextView
+                android:layout_height="40dp"
+                android:layout_width="40dp"
+                android:text="P"
+                android:textSize="16dp"
+                android:textColor="@color/mywhite"
+                android:background = "@drawable/present_flag"
+                android:gravity="center"
+                android:padding="10dp"
+                />
+            <TextView
+                android:layout_height="40dp"
+                android:layout_width="40dp"
+                android:text="A"
+                android:textSize="16sp"
+                android:textColor="@color/mywhite"
+                android:background = "@drawable/absent_flag"
+                android:padding="10dp"
+                android:gravity="center"
+                />
+
+
+        </LinearLayout>
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="7dp"
+        android:background="@drawable/green_solid"
+        />
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center">
+        <Button
+            android:layout_width="35dp"
+            android:layout_height="match_parent"
+            android:textSize="25dp"
+            android:text="-"
+            android:background="@color/myoffwhite"
+            />
+        <TextView
+            android:layout_width="200dp"
+            android:layout_height="match_parent"
+            android:text="12th Cycle C Day"
+            android:textColor="#000000"
+            android:gravity="center"
+            android:textSize="20sp"
+            />
+
+        <Button
+            android:layout_width="35dp"
+            android:layout_height="match_parent"
+            android:textSize="25dp"
+            android:background="@color/myoffwhite"
+            android:text="+"
+            />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_height="0dp"
+        android:layout_width="match_parent"
+        >
+        <Button
+            android:layout_marginLeft="15dp"
+            android:layout_marginRight="15dp"
+            android:text="All Present"
+            android:layout_height="match_parent"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:background="@drawable/all_present_button"/>
+        <Button
+            android:layout_marginLeft="15dp"
+            android:layout_marginRight="15dp"
+            android:text="All Absent"
+            android:layout_height="match_parent"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:background="@drawable/all_absent_button"/>
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal"
+        android:gravity="center"
+        android:padding="0dp">
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:gravity="center"
+            android:padding="0dp">
+            <TextView
+                android:layout_width="140dp"
+                android:layout_height="20dp"
+                android:text="Mark All Present"
+                android:textColor="@color/green"
+                android:background="@drawable/green_border"
+                android:gravity="center"
+                android:layout_marginBottom="10dp"
+                />
+            <ImageButton
+                android:padding="15dp"
+                android:layout_height="140dp"
+                android:layout_width="140dp"
+                android:scaleType="fitCenter"
+                android:src="@drawable/check"
+                android:background="@drawable/present_button_big"
+                />
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:gravity="center"
+            android:padding="0dp">
+            <TextView
+                android:layout_width="140dp"
+                android:layout_height="20dp"
+                android:text="Mark All Absent"
+                android:textColor="@color/red"
+                android:background="@drawable/red_border"
+                android:gravity="center"
+                android:layout_marginBottom="10dp"
+                />
+            <ImageButton
+                android:padding="15dp"
+                android:layout_height="140dp"
+                android:layout_width="140dp"
+                android:src="@drawable/delete"
+                android:background="@drawable/absent_button_big"
+                android:scaleType="fitCenter"
+                />
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

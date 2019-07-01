@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/myoffwhite"
+    tools:context=".RollConfirmActivity">
+    <ScrollView
+        android:layout_height="0dp"
+        android:layout_width="match_parent"
+        android:layout_weight="8"
+        >
+        <LinearLayout
+            android:layout_height="match_parent"
+            android:layout_width="match_parent"
+            android:orientation="vertical"
+            android:layout_marginRight="40dp">
+            <Button
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:text="1503035"
+                android:background="@drawable/present_flag"
+                />
+            <Button
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:text="1503035"
+                android:background="@drawable/present_flag"
+                />
+            <Button
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:text="1503002"
+                android:background="@drawable/absent_flag"
+                />
+            <Button
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:text="1503035"
+                android:background="@color/myred"
+                />
+
+        </LinearLayout>
+    </ScrollView>
+    <Button
+        android:layout_height="0dp"
+        android:layout_width="match_parent"
+        android:layout_weight="1"
+        android:background="@drawable/absent_flag"/>
+
+</LinearLayout>

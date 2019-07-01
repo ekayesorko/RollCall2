@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello!</string>
+    <string name="app_name">RollCall</string>
+    <string-array name="day_name">
+        <item>A Day</item>
+        <item>B Day</item>
+        <item>C Day</item>
+        <item>D Day</item>
+        <item>E Day</item>
+    </string-array>
+    <string-array name="cycle_name">
+        <item>1st Cycle</item>
+        <item>2nd Cycle</item>
+        <item>3rd Cycle</item>
+        <item>4th Cycle</item>
+        <item>5th Cycle</item>
+        <item>6th Cycle</item>
+        <item>7th Cycle</item>
+        <item>8th Cycle</item>
+        <item>9th Cycle</item>
+        <item>10th Cycle</item>
+        <item>11th Cycle</item>
+        <item>12th Cycle</item>
+        <item>13th Cycle</item>
+    </string-array>
+    <string-array name="subject_name">
+        <item>CSE 3101 : Finite Automata</item>
+        <item>CSE 3105 : Computer Algorithm </item>
+        <item>CSE 3107 : Database Manaement and Queueing Theory</item>
+        <item>CSE 3101 : Finite Automata</item>
+        <item>CSE 3101 : Finite Automata</item>
+    </string-array>
+</resources>

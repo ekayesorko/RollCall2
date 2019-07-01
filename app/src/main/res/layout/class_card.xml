@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginLeft="3dp"
+    android:layout_marginRight="3dp"
+    android:layout_marginTop="5dp"
+    android:layout_marginBottom="5dp"
+    android:orientation="vertical"
+    android:background="@drawable/green_border">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:paddingLeft="5dp"
+        android:paddingRight="5dp"
+        android:text="Database Management and Queueing Theory"
+        android:textColor="@color/myblack"
+        android:textSize="30sp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="CSE 15 'A'"
+        android:textColor="@color/myblack"
+        android:textSize="20sp" />
+
+    <ImageView
+        android:layout_height="10dp"
+        android:layout_width="match_parent"
+        android:background="@color/green"
+        />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:visibility="gone"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:background="@drawable/green_solid"
+        android:layout_marginTop="0dp"
+        android:paddingTop="10dp"
+        android:paddingBottom="5dp">
+
+        <LinearLayout
+            android:layout_width="45dp"
+            android:layout_height="55dp"
+            android:layout_marginRight="15dp"
+            android:layout_marginLeft="15dp"
+            android:orientation="vertical"
+
+            >
+            <ImageView
+                android:layout_width="45dp"
+                android:layout_height="40dp"
+                android:background="@drawable/list"
+                android:backgroundTint="@color/mywhite"
+                />
+            <TextView
+                android:layout_width="45dp"
+                android:layout_height="15dp"
+                android:text="Roll Call"
+                android:textSize="10dp"
+                android:textColor="@color/mywhite"
+                android:gravity="left"
+                />
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="45dp"
+            android:layout_height="55dp"
+            android:layout_marginRight="15dp"
+            android:layout_marginLeft="15dp"
+            android:orientation="vertical"
+            >
+            <ImageView
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:backgroundTint="@color/mywhite"
+                android:background="@drawable/calendar" />
+            <TextView
+                android:layout_width="45dp"
+                android:layout_height="15dp"
+                android:text="View"
+                android:textSize="10dp"
+                android:textColor="@color/mywhite"
+                android:gravity="left"
+                android:paddingLeft="5dp"
+                />
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="40dp"
+            android:layout_height="55dp"
+            android:layout_marginRight="15dp"
+            android:layout_marginLeft="15dp"
+            android:orientation="vertical"
+            >
+            <ImageView
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:backgroundTint="@color/mywhite"
+                android:background="@drawable/file" />
+            <TextView
+                android:layout_width="40dp"
+                android:layout_height="15dp"
+                android:text="Notice"
+                android:textSize="10dp"
+                android:textColor="@color/mywhite"
+                android:gravity="left"
+                android:paddingLeft="0dp"
+                />
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="45dp"
+            android:layout_height="55dp"
+            android:layout_marginRight="15dp"
+            android:layout_marginLeft="15dp"
+            android:orientation="vertical"
+            android:gravity="center"
+            >
+            <ImageView
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:backgroundTint="@color/mywhite"
+                android:background="@drawable/settings"
+                android:layout_marginBottom="5dp"/>
+            <TextView
+                android:layout_width="45dp"
+                android:layout_height="15dp"
+                android:text="Settings"
+                android:textSize="10dp"
+                android:textColor="@color/mywhite"
+                android:gravity="left"
+                android:paddingLeft="4dp"
+                />
+        </LinearLayout>
+
+    </LinearLayout>
+
+</LinearLayout>

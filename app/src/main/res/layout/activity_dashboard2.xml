@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/myoffwhite"
+    tools:context=".DashboardActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:background="@drawable/attendance_percentage_card"
+        android:gravity="center">
+        <Button
+            android:layout_width="30dp"
+            android:layout_height="40dp"
+            android:text="-"
+            android:gravity="center"
+            android:textSize="30dp"
+            android:textColor="@color/mywhite"
+            android:background="@color/green"
+            />
+        <TextView
+            android:layout_width="260dp"
+            android:layout_height="wrap_content"
+            android:text="12th Cycle C Day"
+            android:textColor="@color/mywhite"
+            android:gravity="center"
+            android:textSize="30dp"
+
+            />
+
+        <Button
+            android:layout_width="30dp"
+            android:layout_height="40dp"
+            android:text="+"
+            android:gravity="center"
+            android:textSize="25dp"
+            android:textColor="@color/mywhite"
+            android:background="@color/green"
+            />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="90dp"
+        android:gravity="center"
+        android:background="@drawable/green_border"
+        >
+        <LinearLayout
+            android:layout_width="50dp"
+            android:layout_height="70dp"
+            android:layout_marginRight="15dp"
+            android:layout_marginLeft="15dp"
+            android:orientation="vertical">
+            <ImageView
+
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:background="@drawable/cloud"
+                android:backgroundTint="@color/green"
+                />
+            <TextView
+                android:layout_width="50dp"
+                android:layout_height="20dp"
+                android:text="Sync"
+                android:textSize="15dp"
+                android:textColor="@color/green"
+                android:gravity="center"
+                />
+
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:layout_width="50dp"
+            android:layout_height="75dp"
+            android:layout_marginRight="15dp"
+            android:layout_marginLeft="15dp"
+            android:orientation="vertical">
+            <ImageView
+
+                android:layout_width="50dp"
+                android:layout_height="55dp"
+                android:background="@drawable/server"
+                android:backgroundTint="@color/green"
+                />
+            <TextView
+                android:layout_width="50dp"
+                android:layout_height="20dp"
+                android:text="Add"
+                android:textSize="15dp"
+                android:textColor="@color/green"
+                android:gravity="center"
+                />
+
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="50dp"
+            android:layout_height="70dp"
+            android:layout_marginRight="15dp"
+            android:layout_marginLeft="15dp"
+            android:orientation="vertical"
+            android:gravity="center">
+            <ImageView
+
+                android:layout_marginTop="5dp"
+                android:layout_width="50dp"
+                android:layout_height="45dp"
+                android:background="@drawable/browser"
+                android:backgroundTint="@color/green"
+                />
+            <TextView
+                android:layout_width="50dp"
+                android:layout_height="20dp"
+                android:text="Settings"
+                android:gravity="center"
+                android:textSize="13dp"
+                android:textColor="@color/green"
+                />
+
+        </LinearLayout>
+    </LinearLayout>
+
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="5dp"
+        android:layout_marginBottom="5dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="3dp"
+            android:paddingRight="3dp"
+            android:orientation="vertical"
+            android:id="@+id/class_layout">
+
+
+        </LinearLayout>
+
+    </ScrollView>
+</LinearLayout>

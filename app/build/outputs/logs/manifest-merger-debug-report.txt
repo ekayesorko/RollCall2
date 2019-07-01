@@ -1,0 +1,327 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/orko/AndroidStudioProjects/RollCall2/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /home/orko/AndroidStudioProjects/RollCall2/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /home/orko/AndroidStudioProjects/RollCall2/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /home/orko/AndroidStudioProjects/RollCall2/app/src/main/AndroidManifest.xml:2:1-25:12
+MERGED from [com.android.support:design:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/0206afdbae4c7f0b77ad2c049df96a38/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design-bottomappbar:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/70deb09be0a9ed157cb553c40f61059f/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design-theme:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/c1630b26b17b6c67c585477211205d80/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design-transformation:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/ce8bd694f33b2e5db2bac5184955cdf2/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design-widget:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/946129780a307ec4f41027cfde3ec308/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design-bottomsheet:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/454e356a41bca9a515d50046640d9beb/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design-dialog:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/98699bc936ef388927c0483c0761fb35/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design-button:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/8e78da08780424323fefb5b1e4e4a322/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design-card:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/4935d4f60678c0b8384f625e8325f616/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design-chip:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/534543fbf92029a5969cc09926b688b2/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design-internal:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/9ecc06948e2fb5bad385d4ec8bcfa8ef/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design-bottomnavigation:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/fab5a2fb6b665bd5bd418d293dc652d2/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design-floatingactionbutton:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/8ebc8198815b28f9b0c5370c197e9bcf/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design-navigation:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/68391a25f5c3a34269d475caad0dd040/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design-resources:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/9f43908af0f7fe29eb06da901355e459/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design-tabs:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/293eef0bd629eb6ecb72c782e27ac80f/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design-textfield:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/c2a7afd319150a1325d18df357aab8d7/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design-typography:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/73c21ae9f06a4ce2e42d69124fb7d178/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design-shape:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/afd40dd802099a18d9ac7759d45b325d/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/31e8ee02e6510a7ed357e897baf6f324/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/orko/.gradle/caches/transforms-2/files-2.1/beaaa57ab44d4902d6a56eba2df806ae/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android:flexbox:1.0.0] /home/orko/.gradle/caches/transforms-2/files-2.1/7165c4e04421da7dee320c23de8c1003/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-fragment:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/37595b6b35e0f8ca9d723350efb1d4c1/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/eb4b5e1f2c4aa6271490b1a2e0565460/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/b515c97e2c775d02e6371e33a3ffe8a6/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:design-animation:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/fc9229d2d21b965a8b83c1f92d0fa5e6/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design-circularreveal-coordinatorlayout:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/491811063cc2afd27204639c6c117d43/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design-expandable:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/2f4ed551e5c0b08a35e5f71bbf0f2179/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design-stateful:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/8a33808b0c46b4d8e8ac7009a56b70b4/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/83cc583283de5ae09fb9596c5462b757/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:design-ripple:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/2a8fc113d985ca17798345a0c488f7a0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/48e941a41618e709f184a088dcb88eb9/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/fbe50809c3076b7515680668a901319e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/016bc660906a0875547d217ab573ae16/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:loader:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/3b4a3f370de90a647088fbf70d89adfd/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:viewpager:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/eafe3aa622fa05ff6c3d1b5fa2cf19ed/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/6fabd2ce21553ffa5bed90f77e18b991/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/303b8a04e1498727e285b88a5331f13f/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/1b11cbbe1e2c233c4329c720031945ce/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:customview:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/726678414eb67a97f78c386f124ce5b5/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/8030a947ea12209bdb78322c01d58986/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/28f83240212370577190f83db812b42c/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:support-compat:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/ac2db5308eedfd49a7fd8aea47365254/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:design-canvas:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/3aa40be7958caa2a912f4de38dd5b70e/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design-circularreveal-cardview:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/3d8dabc735e634f02dea0ce3396731c1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design-circularreveal:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/f35ad001e901edfeb41e2107455a1070/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design-drawable:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/3c543c168da4cd0e563ce36e3048a406/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:documentfile:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/4bbc5b928dd9a2a39d14cc9dcd77b472/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/0744752aba24f79953d581f34f75bd71/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:print:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/025c9b8a04a6275ccb7000c592a2a3f9/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:interpolator:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/fad4c6326998752965f9de36183a6fee/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/83203e330692f798d8be2aef464dbc85/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:cardview-v7:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/eff503bcd728e8bad2c33b1955f5c0a2/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:design-color:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/1ace7e243f6729c5a098d3fbc1c8f1f9/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design-math:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/99113d905582a4c4d264aef23f348980/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design-snackbar:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/cad9c3f070ed13acbe98fe2ae9b6e171/AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/orko/.gradle/caches/transforms-2/files-2.1/ebe38ed9400879b4141de7013b5eaa53/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/orko/.gradle/caches/transforms-2/files-2.1/58dcf6d2afab88dde1ad79e6995fe72e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/orko/.gradle/caches/transforms-2/files-2.1/63a0a7061415ec9cd1221daa7fb6ac56/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /home/orko/.gradle/caches/transforms-2/files-2.1/fe5131582c450223516e3083df7b3ed5/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/orko/AndroidStudioProjects/RollCall2/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /home/orko/AndroidStudioProjects/RollCall2/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /home/orko/AndroidStudioProjects/RollCall2/app/src/main/AndroidManifest.xml:2:1-25:12
+	package
+		ADDED from /home/orko/AndroidStudioProjects/RollCall2/app/src/main/AndroidManifest.xml:3:5-41
+		INJECTED from /home/orko/AndroidStudioProjects/RollCall2/app/src/main/AndroidManifest.xml
+		INJECTED from /home/orko/AndroidStudioProjects/RollCall2/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/orko/AndroidStudioProjects/RollCall2/app/src/main/AndroidManifest.xml
+		ADDED from /home/orko/AndroidStudioProjects/RollCall2/app/src/main/AndroidManifest.xml:2:1-25:12
+		INJECTED from /home/orko/AndroidStudioProjects/RollCall2/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/orko/AndroidStudioProjects/RollCall2/app/src/main/AndroidManifest.xml
+		ADDED from /home/orko/AndroidStudioProjects/RollCall2/app/src/main/AndroidManifest.xml:2:1-25:12
+		INJECTED from /home/orko/AndroidStudioProjects/RollCall2/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/orko/AndroidStudioProjects/RollCall2/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/orko/AndroidStudioProjects/RollCall2/app/src/main/AndroidManifest.xml:5:5-23:19
+MERGED from [com.android.support:design:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/0206afdbae4c7f0b77ad2c049df96a38/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/0206afdbae4c7f0b77ad2c049df96a38/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-bottomappbar:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/70deb09be0a9ed157cb553c40f61059f/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-bottomappbar:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/70deb09be0a9ed157cb553c40f61059f/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-theme:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/c1630b26b17b6c67c585477211205d80/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-theme:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/c1630b26b17b6c67c585477211205d80/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-transformation:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/ce8bd694f33b2e5db2bac5184955cdf2/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-transformation:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/ce8bd694f33b2e5db2bac5184955cdf2/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-widget:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/946129780a307ec4f41027cfde3ec308/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-widget:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/946129780a307ec4f41027cfde3ec308/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-bottomsheet:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/454e356a41bca9a515d50046640d9beb/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-bottomsheet:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/454e356a41bca9a515d50046640d9beb/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-dialog:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/98699bc936ef388927c0483c0761fb35/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-dialog:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/98699bc936ef388927c0483c0761fb35/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-button:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/8e78da08780424323fefb5b1e4e4a322/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-button:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/8e78da08780424323fefb5b1e4e4a322/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-card:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/4935d4f60678c0b8384f625e8325f616/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-card:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/4935d4f60678c0b8384f625e8325f616/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-chip:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/534543fbf92029a5969cc09926b688b2/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-chip:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/534543fbf92029a5969cc09926b688b2/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-internal:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/9ecc06948e2fb5bad385d4ec8bcfa8ef/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-internal:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/9ecc06948e2fb5bad385d4ec8bcfa8ef/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-bottomnavigation:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/fab5a2fb6b665bd5bd418d293dc652d2/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-bottomnavigation:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/fab5a2fb6b665bd5bd418d293dc652d2/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-floatingactionbutton:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/8ebc8198815b28f9b0c5370c197e9bcf/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-floatingactionbutton:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/8ebc8198815b28f9b0c5370c197e9bcf/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-navigation:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/68391a25f5c3a34269d475caad0dd040/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-navigation:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/68391a25f5c3a34269d475caad0dd040/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-resources:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/9f43908af0f7fe29eb06da901355e459/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-resources:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/9f43908af0f7fe29eb06da901355e459/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-tabs:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/293eef0bd629eb6ecb72c782e27ac80f/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-tabs:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/293eef0bd629eb6ecb72c782e27ac80f/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-textfield:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/c2a7afd319150a1325d18df357aab8d7/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-textfield:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/c2a7afd319150a1325d18df357aab8d7/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-typography:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/73c21ae9f06a4ce2e42d69124fb7d178/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-typography:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/73c21ae9f06a4ce2e42d69124fb7d178/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-shape:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/afd40dd802099a18d9ac7759d45b325d/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-shape:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/afd40dd802099a18d9ac7759d45b325d/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/orko/.gradle/caches/transforms-2/files-2.1/beaaa57ab44d4902d6a56eba2df806ae/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/orko/.gradle/caches/transforms-2/files-2.1/beaaa57ab44d4902d6a56eba2df806ae/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design-animation:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/fc9229d2d21b965a8b83c1f92d0fa5e6/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-animation:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/fc9229d2d21b965a8b83c1f92d0fa5e6/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-circularreveal-coordinatorlayout:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/491811063cc2afd27204639c6c117d43/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-circularreveal-coordinatorlayout:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/491811063cc2afd27204639c6c117d43/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-expandable:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/2f4ed551e5c0b08a35e5f71bbf0f2179/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-expandable:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/2f4ed551e5c0b08a35e5f71bbf0f2179/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-stateful:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/8a33808b0c46b4d8e8ac7009a56b70b4/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-stateful:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/8a33808b0c46b4d8e8ac7009a56b70b4/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-ripple:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/2a8fc113d985ca17798345a0c488f7a0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-ripple:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/2a8fc113d985ca17798345a0c488f7a0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-canvas:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/3aa40be7958caa2a912f4de38dd5b70e/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-canvas:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/3aa40be7958caa2a912f4de38dd5b70e/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-circularreveal-cardview:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/3d8dabc735e634f02dea0ce3396731c1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-circularreveal-cardview:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/3d8dabc735e634f02dea0ce3396731c1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-circularreveal:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/f35ad001e901edfeb41e2107455a1070/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-circularreveal:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/f35ad001e901edfeb41e2107455a1070/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-drawable:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/3c543c168da4cd0e563ce36e3048a406/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-drawable:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/3c543c168da4cd0e563ce36e3048a406/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-color:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/1ace7e243f6729c5a098d3fbc1c8f1f9/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-color:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/1ace7e243f6729c5a098d3fbc1c8f1f9/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-math:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/99113d905582a4c4d264aef23f348980/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-math:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/99113d905582a4c4d264aef23f348980/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-snackbar:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/cad9c3f070ed13acbe98fe2ae9b6e171/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-snackbar:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/cad9c3f070ed13acbe98fe2ae9b6e171/AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from /home/orko/AndroidStudioProjects/RollCall2/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /home/orko/AndroidStudioProjects/RollCall2/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /home/orko/AndroidStudioProjects/RollCall2/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /home/orko/AndroidStudioProjects/RollCall2/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /home/orko/AndroidStudioProjects/RollCall2/app/src/main/AndroidManifest.xml:10:9-40
+activity#com.example.user.rollcall2.LoginActivity
+ADDED from /home/orko/AndroidStudioProjects/RollCall2/app/src/main/AndroidManifest.xml:11:9-17:20
+	android:name
+		ADDED from /home/orko/AndroidStudioProjects/RollCall2/app/src/main/AndroidManifest.xml:11:19-48
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/orko/AndroidStudioProjects/RollCall2/app/src/main/AndroidManifest.xml:12:13-16:29
+action#android.intent.action.MAIN
+ADDED from /home/orko/AndroidStudioProjects/RollCall2/app/src/main/AndroidManifest.xml:13:17-69
+	android:name
+		ADDED from /home/orko/AndroidStudioProjects/RollCall2/app/src/main/AndroidManifest.xml:13:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/orko/AndroidStudioProjects/RollCall2/app/src/main/AndroidManifest.xml:15:17-77
+	android:name
+		ADDED from /home/orko/AndroidStudioProjects/RollCall2/app/src/main/AndroidManifest.xml:15:27-74
+activity#com.example.user.rollcall2.DashboardActivity
+ADDED from /home/orko/AndroidStudioProjects/RollCall2/app/src/main/AndroidManifest.xml:18:9-55
+	android:name
+		ADDED from /home/orko/AndroidStudioProjects/RollCall2/app/src/main/AndroidManifest.xml:18:19-52
+activity#com.example.user.rollcall2.RollCallActivity
+ADDED from /home/orko/AndroidStudioProjects/RollCall2/app/src/main/AndroidManifest.xml:19:9-54
+	android:name
+		ADDED from /home/orko/AndroidStudioProjects/RollCall2/app/src/main/AndroidManifest.xml:19:19-51
+activity#com.example.user.rollcall2.RollConfirmActivity
+ADDED from /home/orko/AndroidStudioProjects/RollCall2/app/src/main/AndroidManifest.xml:20:9-57
+	android:name
+		ADDED from /home/orko/AndroidStudioProjects/RollCall2/app/src/main/AndroidManifest.xml:20:19-54
+activity#com.example.user.rollcall2.AddClassActivity
+ADDED from /home/orko/AndroidStudioProjects/RollCall2/app/src/main/AndroidManifest.xml:21:9-54
+	android:name
+		ADDED from /home/orko/AndroidStudioProjects/RollCall2/app/src/main/AndroidManifest.xml:21:19-51
+activity#com.example.user.rollcall2.AddClassActivityTwo
+ADDED from /home/orko/AndroidStudioProjects/RollCall2/app/src/main/AndroidManifest.xml:22:9-66
+	android:name
+		ADDED from /home/orko/AndroidStudioProjects/RollCall2/app/src/main/AndroidManifest.xml:22:19-54
+uses-sdk
+INJECTED from /home/orko/AndroidStudioProjects/RollCall2/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/orko/AndroidStudioProjects/RollCall2/app/src/main/AndroidManifest.xml
+INJECTED from /home/orko/AndroidStudioProjects/RollCall2/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/0206afdbae4c7f0b77ad2c049df96a38/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/0206afdbae4c7f0b77ad2c049df96a38/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-bottomappbar:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/70deb09be0a9ed157cb553c40f61059f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-bottomappbar:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/70deb09be0a9ed157cb553c40f61059f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-theme:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/c1630b26b17b6c67c585477211205d80/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-theme:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/c1630b26b17b6c67c585477211205d80/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-transformation:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/ce8bd694f33b2e5db2bac5184955cdf2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-transformation:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/ce8bd694f33b2e5db2bac5184955cdf2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-widget:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/946129780a307ec4f41027cfde3ec308/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-widget:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/946129780a307ec4f41027cfde3ec308/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-bottomsheet:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/454e356a41bca9a515d50046640d9beb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-bottomsheet:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/454e356a41bca9a515d50046640d9beb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-dialog:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/98699bc936ef388927c0483c0761fb35/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-dialog:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/98699bc936ef388927c0483c0761fb35/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-button:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/8e78da08780424323fefb5b1e4e4a322/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-button:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/8e78da08780424323fefb5b1e4e4a322/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-card:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/4935d4f60678c0b8384f625e8325f616/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-card:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/4935d4f60678c0b8384f625e8325f616/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-chip:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/534543fbf92029a5969cc09926b688b2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-chip:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/534543fbf92029a5969cc09926b688b2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-internal:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/9ecc06948e2fb5bad385d4ec8bcfa8ef/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-internal:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/9ecc06948e2fb5bad385d4ec8bcfa8ef/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-bottomnavigation:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/fab5a2fb6b665bd5bd418d293dc652d2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-bottomnavigation:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/fab5a2fb6b665bd5bd418d293dc652d2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-floatingactionbutton:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/8ebc8198815b28f9b0c5370c197e9bcf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-floatingactionbutton:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/8ebc8198815b28f9b0c5370c197e9bcf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-navigation:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/68391a25f5c3a34269d475caad0dd040/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-navigation:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/68391a25f5c3a34269d475caad0dd040/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-resources:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/9f43908af0f7fe29eb06da901355e459/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-resources:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/9f43908af0f7fe29eb06da901355e459/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-tabs:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/293eef0bd629eb6ecb72c782e27ac80f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-tabs:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/293eef0bd629eb6ecb72c782e27ac80f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-textfield:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/c2a7afd319150a1325d18df357aab8d7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-textfield:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/c2a7afd319150a1325d18df357aab8d7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-typography:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/73c21ae9f06a4ce2e42d69124fb7d178/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-typography:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/73c21ae9f06a4ce2e42d69124fb7d178/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-shape:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/afd40dd802099a18d9ac7759d45b325d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-shape:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/afd40dd802099a18d9ac7759d45b325d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/31e8ee02e6510a7ed357e897baf6f324/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/31e8ee02e6510a7ed357e897baf6f324/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/orko/.gradle/caches/transforms-2/files-2.1/beaaa57ab44d4902d6a56eba2df806ae/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/orko/.gradle/caches/transforms-2/files-2.1/beaaa57ab44d4902d6a56eba2df806ae/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android:flexbox:1.0.0] /home/orko/.gradle/caches/transforms-2/files-2.1/7165c4e04421da7dee320c23de8c1003/AndroidManifest.xml:23:5-25:41
+MERGED from [com.google.android:flexbox:1.0.0] /home/orko/.gradle/caches/transforms-2/files-2.1/7165c4e04421da7dee320c23de8c1003/AndroidManifest.xml:23:5-25:41
+MERGED from [com.android.support:support-fragment:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/37595b6b35e0f8ca9d723350efb1d4c1/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-fragment:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/37595b6b35e0f8ca9d723350efb1d4c1/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/eb4b5e1f2c4aa6271490b1a2e0565460/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/eb4b5e1f2c4aa6271490b1a2e0565460/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/b515c97e2c775d02e6371e33a3ffe8a6/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/b515c97e2c775d02e6371e33a3ffe8a6/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:design-animation:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/fc9229d2d21b965a8b83c1f92d0fa5e6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-animation:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/fc9229d2d21b965a8b83c1f92d0fa5e6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-circularreveal-coordinatorlayout:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/491811063cc2afd27204639c6c117d43/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-circularreveal-coordinatorlayout:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/491811063cc2afd27204639c6c117d43/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-expandable:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/2f4ed551e5c0b08a35e5f71bbf0f2179/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-expandable:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/2f4ed551e5c0b08a35e5f71bbf0f2179/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-stateful:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/8a33808b0c46b4d8e8ac7009a56b70b4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-stateful:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/8a33808b0c46b4d8e8ac7009a56b70b4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/83cc583283de5ae09fb9596c5462b757/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/83cc583283de5ae09fb9596c5462b757/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:design-ripple:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/2a8fc113d985ca17798345a0c488f7a0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-ripple:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/2a8fc113d985ca17798345a0c488f7a0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/48e941a41618e709f184a088dcb88eb9/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/48e941a41618e709f184a088dcb88eb9/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/fbe50809c3076b7515680668a901319e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/fbe50809c3076b7515680668a901319e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/016bc660906a0875547d217ab573ae16/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:transition:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/016bc660906a0875547d217ab573ae16/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:loader:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/3b4a3f370de90a647088fbf70d89adfd/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:loader:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/3b4a3f370de90a647088fbf70d89adfd/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:viewpager:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/eafe3aa622fa05ff6c3d1b5fa2cf19ed/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:viewpager:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/eafe3aa622fa05ff6c3d1b5fa2cf19ed/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/6fabd2ce21553ffa5bed90f77e18b991/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/6fabd2ce21553ffa5bed90f77e18b991/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/303b8a04e1498727e285b88a5331f13f/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/303b8a04e1498727e285b88a5331f13f/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/1b11cbbe1e2c233c4329c720031945ce/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/1b11cbbe1e2c233c4329c720031945ce/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:customview:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/726678414eb67a97f78c386f124ce5b5/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:customview:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/726678414eb67a97f78c386f124ce5b5/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/8030a947ea12209bdb78322c01d58986/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/8030a947ea12209bdb78322c01d58986/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/28f83240212370577190f83db812b42c/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/28f83240212370577190f83db812b42c/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-compat:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/ac2db5308eedfd49a7fd8aea47365254/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-compat:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/ac2db5308eedfd49a7fd8aea47365254/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:design-canvas:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/3aa40be7958caa2a912f4de38dd5b70e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-canvas:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/3aa40be7958caa2a912f4de38dd5b70e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-circularreveal-cardview:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/3d8dabc735e634f02dea0ce3396731c1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-circularreveal-cardview:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/3d8dabc735e634f02dea0ce3396731c1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-circularreveal:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/f35ad001e901edfeb41e2107455a1070/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-circularreveal:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/f35ad001e901edfeb41e2107455a1070/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-drawable:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/3c543c168da4cd0e563ce36e3048a406/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-drawable:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/3c543c168da4cd0e563ce36e3048a406/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/4bbc5b928dd9a2a39d14cc9dcd77b472/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:documentfile:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/4bbc5b928dd9a2a39d14cc9dcd77b472/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/0744752aba24f79953d581f34f75bd71/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/0744752aba24f79953d581f34f75bd71/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:print:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/025c9b8a04a6275ccb7000c592a2a3f9/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:print:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/025c9b8a04a6275ccb7000c592a2a3f9/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:interpolator:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/fad4c6326998752965f9de36183a6fee/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:interpolator:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/fad4c6326998752965f9de36183a6fee/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/83203e330692f798d8be2aef464dbc85/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/83203e330692f798d8be2aef464dbc85/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/eff503bcd728e8bad2c33b1955f5c0a2/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/eff503bcd728e8bad2c33b1955f5c0a2/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:design-color:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/1ace7e243f6729c5a098d3fbc1c8f1f9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-color:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/1ace7e243f6729c5a098d3fbc1c8f1f9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-math:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/99113d905582a4c4d264aef23f348980/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-math:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/99113d905582a4c4d264aef23f348980/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-snackbar:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/cad9c3f070ed13acbe98fe2ae9b6e171/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-snackbar:28.0.0-alpha1] /home/orko/.gradle/caches/transforms-2/files-2.1/cad9c3f070ed13acbe98fe2ae9b6e171/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/orko/.gradle/caches/transforms-2/files-2.1/ebe38ed9400879b4141de7013b5eaa53/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/orko/.gradle/caches/transforms-2/files-2.1/ebe38ed9400879b4141de7013b5eaa53/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/orko/.gradle/caches/transforms-2/files-2.1/58dcf6d2afab88dde1ad79e6995fe72e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/orko/.gradle/caches/transforms-2/files-2.1/58dcf6d2afab88dde1ad79e6995fe72e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/orko/.gradle/caches/transforms-2/files-2.1/63a0a7061415ec9cd1221daa7fb6ac56/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/orko/.gradle/caches/transforms-2/files-2.1/63a0a7061415ec9cd1221daa7fb6ac56/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/orko/.gradle/caches/transforms-2/files-2.1/fe5131582c450223516e3083df7b3ed5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/orko/.gradle/caches/transforms-2/files-2.1/fe5131582c450223516e3083df7b3ed5/AndroidManifest.xml:20:5-44
+INJECTED from /home/orko/AndroidStudioProjects/RollCall2/app/src/main/AndroidManifest.xml
+INJECTED from /home/orko/AndroidStudioProjects/RollCall2/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/orko/AndroidStudioProjects/RollCall2/app/src/main/AndroidManifest.xml
+		ADDED from /home/orko/AndroidStudioProjects/RollCall2/app/src/main/AndroidManifest.xml
+		INJECTED from /home/orko/AndroidStudioProjects/RollCall2/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/orko/AndroidStudioProjects/RollCall2/app/src/main/AndroidManifest.xml
+		ADDED from /home/orko/AndroidStudioProjects/RollCall2/app/src/main/AndroidManifest.xml
+		INJECTED from /home/orko/AndroidStudioProjects/RollCall2/app/src/main/AndroidManifest.xml

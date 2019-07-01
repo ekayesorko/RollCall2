@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/orko/AndroidStudioProjects/RollCall2/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v28/values-v28.xml",
+            "map": [
+                {
+                    "source": "/home/orko/.gradle/caches/transforms-2/files-2.1/31e8ee02e6510a7ed357e897baf6f324/res/values-v28/values-v28.xml",
+                    "from": {
+                        "startLines": "2,3,4,8",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,130,217,447",
+                        "endLines": "2,3,7,11",
+                        "endColumns": "74,86,12,12",
+                        "endOffsets": "125,212,442,684"
+                    }
+                }
+            ]
+        }
+    ]
+}
